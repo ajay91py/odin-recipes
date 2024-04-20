@@ -1,3 +1,2 @@
 # odin-recipes
-first project
-testing my html skills I acquired so far 
+first project is to create a simple webpage for recipes, using my html skills that I acquired so far.
